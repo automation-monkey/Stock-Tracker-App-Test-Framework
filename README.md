@@ -11,7 +11,7 @@ Setup Stock Tracker App according to their instructions.
 
 Tests require Python3.
         
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 Change directory to `tests`
 
